@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <Box bg="gray.800" color="white" py={4} mt={10}>
+    <Box bg="#f3f2ef" color="white" py={4} mt={10}>
       <Flex justifyContent="center" alignItems="center" flexDirection="column">
         <Text mb={2}>© 2023 Financial Times</Text>
         <Flex>
