@@ -1,7 +1,7 @@
 import { Box, Text } from "@chakra-ui/react";
 
 const About = () => (
-  <Box p={4}>
+  <Box p={4} bg="#f3f2ef">
     <Text fontSize="2xl">About Us</Text>
     <Text>Information about the Financial Times goes here.</Text>
   </Box>
